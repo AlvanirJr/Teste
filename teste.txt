@@ -5,3 +5,4 @@ teste master 2
 teste branch2
 
 teste master com branch
+teste branch com branch
